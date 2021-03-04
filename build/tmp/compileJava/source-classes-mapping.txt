@@ -1,4 +1,8 @@
-main.java
- main
 Dalek1.java
  Dalek1
+DalekInstructions.java
+ DalekInstructions
+DalekTalk.java
+ DalekTalk
+Dalek2.java
+ Dalek2
